@@ -1,4 +1,4 @@
-# paperfig
+# Diagramas/Figuras
 
 **Figuras y diagramas de nivel publicación, generados con código.**
 
